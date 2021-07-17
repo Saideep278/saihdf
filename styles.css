@@ -1,0 +1,148 @@
+body {
+  background-color:#A2DBFA;
+}
+hr {
+  border-style:dotted none none;
+  border-color:#2f4f4f;
+  border-width:5px;
+  width:6%;
+}
+h1{
+  color: #4A503D;
+  font-size: 5em;
+}
+h2{
+  font-size: 3em;
+  color: #4A503D;
+}
+img{
+  color: #00ced1;
+}
+.Fst{
+  border: 20%;
+}
+p{
+  font-size: 2em;
+}
+li{
+  font-size: 2em;
+}
+.firstpage{
+  background: url("download.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.scndpage
+{
+  background: url("download.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.thrdpage
+{
+    background-color:#F7DBF0;
+    background: url("a24843226ab051463e105e633a7e1817.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.find2{
+  border-radius: 25px;
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-bottom: 25px;
+  background-color: #DA9FF9;
+
+}
+
+.scroll{
+  padding: 10px;
+}
+.txt{
+  border-radius: 10px;
+  border-style: groove;
+  padding: 5px;
+
+}
+
+}
+.container{
+  background-color: blue;
+}
+
+.navbar{
+  background-color:#DA9FF9;
+  border-radius: 25px ;
+}
+
+.navbar ul{
+  overflow: auto;
+  list-style: none;
+}
+
+.navbar li{
+  float:left;
+  margin: 13px 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar li a{
+  padding: 3px 3px;
+  text-decoration: none;
+  color: black;
+
+}
+
+.search{
+  float: right;
+  padding: 20px 75px;
+  padding-top: 25px;
+}
+
+.navbar input{
+  border-radius: 5px;
+  border-style: groove;
+  border: 2px solid ;
+  padding: 10px;
+}
+
+.find h3{
+  margin-left: 55px;
+}
+
+.find input{
+  padding: 5px;
+  margin-left: 55px;
+  width: 350px;
+  height: 40px;
+  border-top: none;
+  border-left:  none;
+  border-right: none;
+}
+
+.find{
+  border-radius: 25px;
+  padding: 1px;
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-bottom: 25px;
+  background-color: white;
+  height:700px;
+}
+
+.fp{
+  float: right;
+  margin-right: 50px;
+
+}
+.fp2{
+
+}
+.lbtn{
+    border-radius: 25px;
+    margin-left: 80px;
+    width:300px;
+    height: 40px;
+    background: url("download.jpg");
+
+}
